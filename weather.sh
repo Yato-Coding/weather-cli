@@ -1,7 +1,5 @@
 #!/bin/bash
 
-source .gitignore/api-key.sh
-
 echo "Enter a location: "
 read geoInput
 
